@@ -146,8 +146,8 @@ wrapt==1.17.2
 yarl==1.20.1
 zipp==3.23.0
 zstandard==0.23.0
-langchain-huggingface # New: for SentenceTransformerEmbeddings
-langchain-chroma      # New: for Chroma vector store
+langchain-huggingface 
+langchain-chroma      
 streamlit>=1.28.0
 groq>=0.4.0
 langchain>=0.1.0
